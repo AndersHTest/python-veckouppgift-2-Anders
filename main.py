@@ -14,7 +14,7 @@ discount = 0
 price = input("Välkommen, ange vad din produkt kostar: ")
 price = float(price)
 
-if price > level1 and price <= level2:
+if level1 < price <= level2:
     print("Grattis! Du har avancerat till nivå 1 och får 10% rabatt.")
     discount = discount + 10
 elif price >= level2:
