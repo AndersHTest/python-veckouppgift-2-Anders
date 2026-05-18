@@ -22,4 +22,14 @@ if price >= level2:
     discount = discount + 25
 
 final_price = price * (100 - discount) / 100
-print("Efter rabatter blir priset.... " + final_price)
+print("Efter rabatter blir priset.... " + str(final_price))
+
+
+"""
+1. Syftet med koden verkar vara att 'spelifiera' en butik. Ju mer man spenderar desto mer levlar man upp och desto mer rabatt får man.
+2. .. Done
+3. Error - Kan inte kombinera final price (float) med string. -Gör om variabeln till string.
+4. Man verkar få rabatt både för level 1 och level 2 kombinerat. Det är nog inte avsikten.
+5. Man kan göra om if-satserna så att dom hänger ihop istället.
+6. is_member-variabeln verkar inte användas så den kan tas bort. Ändra 'köp något dyrt' till något annat. Gör om if-satserna.
+"""
