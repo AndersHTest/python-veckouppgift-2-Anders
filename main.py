@@ -7,17 +7,17 @@ Diskutera möjliga lösningar på felen ni hittat.
 Diskutera möjliga förbättringar på koden.
 """
 
-is_member = False
 level1 = 100
 level2 = 300
 discount = 0
 
-price = input("Välkommen, köp något dyrt: ")
+price = input("Välkommen, ange vad din produkt kostar: ")
 price = float(price)
-if price > level1:
+
+if price > level1 and price <= level2:
     print("Grattis! Du har avancerat till nivå 1 och får 10% rabatt.")
     discount = discount + 10
-if price >= level2:
+elif price >= level2:
     print("Grattis! Du har avancerat till nivå 2 och får 25% rabatt.")
     discount = discount + 25
 
@@ -31,5 +31,5 @@ print("Efter rabatter blir priset.... " + str(final_price))
 3. Error - Kan inte kombinera final price (float) med string. -Gör om variabeln till string.
 4. Man verkar få rabatt både för level 1 och level 2 kombinerat. Det är nog inte avsikten.
 5. Man kan göra om if-satserna så att dom hänger ihop istället.
-6. is_member-variabeln verkar inte användas så den kan tas bort. Ändra 'köp något dyrt' till något annat. Gör om if-satserna.
+6. is_member-variabeln verkar inte användas så den tar jag bort. Ändra 'köp något dyrt' till något annat. Gör om if-satserna. -> done.
 """
