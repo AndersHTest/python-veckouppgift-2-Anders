@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3566bf97-b3a0-4a58-b126-d867b0b6e28a" name="Changes" comment="Sportresultat version 2.">
-      <change beforePath="$PROJECT_DIR$/Sportresultat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sportresultat.py" afterDir="false" />
-    </list>
+    <list default="true" id="3566bf97-b3a0-4a58-b126-d867b0b6e28a" name="Changes" comment="Sportresultat version 3." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1779129782601</updated>
-      <workItem from="1779129783631" duration="7760000" />
+      <workItem from="1779129783631" duration="7936000" />
     </task>
     <task id="LOCAL−00001" summary="Första uppgiften, main">
       <option name="closed" value="true" />
@@ -129,7 +127,14 @@
       <option name="presentableId" value="LOCAL−00008" />
       <updated>1779137271160</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL−00009" summary="Sportresultat version 3.">
+      <option name="closed" value="true" />
+      <created>1779137744697</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1779137744697</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,10 +148,11 @@
     <MESSAGE value="Uppgift 2 Balder inklusive svar. Uppdaterat dokumentation." />
     <MESSAGE value="Sportresultat version 1...." />
     <MESSAGE value="Sportresultat version 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sportresultat version 2." />
+    <MESSAGE value="Sportresultat version 3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sportresultat version 3." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/99_Veckouppgifter$Sportresultat.coverage" NAME="Sportresultat Coverage Results" MODIFIED="1779137572893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/99_Veckouppgifter$Sportresultat.coverage" NAME="Sportresultat Coverage Results" MODIFIED="1779137711100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/99_Veckouppgifter$main.coverage" NAME="main Coverage Results" MODIFIED="1779135038818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/99_Veckouppgifter$Balder.coverage" NAME="Balder Coverage Results" MODIFIED="1779136018501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
