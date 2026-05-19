@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3566bf97-b3a0-4a58-b126-d867b0b6e28a" name="Changes" comment="Temperaturomväxling Version 2.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temperaturomvandling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Temperaturomvandling.py" afterDir="false" />
+    <list default="true" id="3566bf97-b3a0-4a58-b126-d867b0b6e28a" name="Changes" comment="Miniräknare version 1.">
+      <change beforePath="$PROJECT_DIR$/Miniräknare.py" beforeDir="false" afterPath="$PROJECT_DIR$/Miniräknare.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +44,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Balder.executor": "Run",
+    "Python.Miniräknare.executor": "Run",
     "Python.Sportresultat.executor": "Run",
     "Python.Temperaturomvandling.executor": "Run",
     "Python.main.executor": "Run",
@@ -75,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1779129782601</updated>
       <workItem from="1779129783631" duration="7936000" />
-      <workItem from="1779179841776" duration="2310000" />
+      <workItem from="1779179841776" duration="2930000" />
     </task>
     <task id="LOCAL−00001" summary="Första uppgiften, main">
       <option name="closed" value="true" />
@@ -168,7 +167,21 @@
       <option name="presentableId" value="LOCAL−00013" />
       <updated>1779181489484</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL−00014" summary="Temperaturomväxling Version 3.">
+      <option name="closed" value="true" />
+      <created>1779182171084</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1779182171084</updated>
+    </task>
+    <task id="LOCAL−00015" summary="Miniräknare version 1.">
+      <option name="closed" value="true" />
+      <created>1779182375405</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1779182375405</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,11 +199,14 @@
     <MESSAGE value="Uppdaterat dokumentation." />
     <MESSAGE value="Temperaturomväxling Version 1." />
     <MESSAGE value="Temperaturomväxling Version 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Temperaturomväxling Version 2." />
+    <MESSAGE value="Temperaturomväxling Version 3." />
+    <MESSAGE value="Miniräknare version 1." />
+    <option name="LAST_COMMIT_MESSAGE" value="Miniräknare version 1." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/99_Veckouppgifter$Temperaturomvandling.coverage" NAME="Temperaturomvandling Coverage Results" MODIFIED="1779182119795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/99_Veckouppgifter$Sportresultat.coverage" NAME="Sportresultat Coverage Results" MODIFIED="1779137711100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/99_Veckouppgifter$Miniräknare.coverage" NAME="Miniräknare Coverage Results" MODIFIED="1779182740483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/99_Veckouppgifter$main.coverage" NAME="main Coverage Results" MODIFIED="1779135038818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/99_Veckouppgifter$Balder.coverage" NAME="Balder Coverage Results" MODIFIED="1779136018501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
