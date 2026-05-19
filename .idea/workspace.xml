@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3566bf97-b3a0-4a58-b126-d867b0b6e28a" name="Changes" comment="Miniräknare version 2.">
+    <list default="true" id="3566bf97-b3a0-4a58-b126-d867b0b6e28a" name="Changes" comment="Miniräknare version 3.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Miniräknare.py" beforeDir="false" afterPath="$PROJECT_DIR$/Miniräknare.py" afterDir="false" />
     </list>
@@ -75,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1779129782601</updated>
       <workItem from="1779129783631" duration="7936000" />
-      <workItem from="1779179841776" duration="5956000" />
+      <workItem from="1779179841776" duration="8021000" />
     </task>
     <task id="LOCAL−00001" summary="Första uppgiften, main">
       <option name="closed" value="true" />
@@ -189,7 +189,14 @@
       <option name="presentableId" value="LOCAL−00016" />
       <updated>1779182808170</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL−00017" summary="Miniräknare version 3.">
+      <option name="closed" value="true" />
+      <created>1779188960305</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1779188960305</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,12 +217,13 @@
     <MESSAGE value="Temperaturomväxling Version 3." />
     <MESSAGE value="Miniräknare version 1." />
     <MESSAGE value="Miniräknare version 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Miniräknare version 2." />
+    <MESSAGE value="Miniräknare version 3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Miniräknare version 3." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/99_Veckouppgifter$Temperaturomvandling.coverage" NAME="Temperaturomvandling Coverage Results" MODIFIED="1779182119795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/99_Veckouppgifter$Sportresultat.coverage" NAME="Sportresultat Coverage Results" MODIFIED="1779137711100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/99_Veckouppgifter$Miniräknare.coverage" NAME="Miniräknare Coverage Results" MODIFIED="1779188822122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/99_Veckouppgifter$Miniräknare.coverage" NAME="Miniräknare Coverage Results" MODIFIED="1779190910057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/99_Veckouppgifter$main.coverage" NAME="main Coverage Results" MODIFIED="1779135038818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/99_Veckouppgifter$Balder.coverage" NAME="Balder Coverage Results" MODIFIED="1779136018501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
