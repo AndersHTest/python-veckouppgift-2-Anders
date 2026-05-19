@@ -5,7 +5,17 @@ Skriv in en temperatur i grader Celsius: 22
 Det blir 71.6 grader Fahrenheit.
 """
 
-Antal_grader = float(input("Skriv in en temperatur i grader Celsius: "))
-Fahrenheit_grader = (Antal_grader * 1.8) + 32
+val_f_c = input("Skriv 1 för att räkna om temperaturen till Celsius eller 2 för att räkna om till Fahrenheit: ")
 
-print(f"Det blir {round(Fahrenheit_grader, 1)} Fahrenheit.")
+if val_f_c == "1":
+    antal_grader_f = float(input("Skriv in en temperatur i grader Fahrenheit: "))
+    antal_grader_c = (antal_grader_f - 32) * 5/9
+    print(f"Det blir {round(antal_grader_c, 1)} Celsius.")
+
+elif val_f_c == "2":
+    antal_grader_c = float(input("Skriv in en temperatur i grader Celsius: "))
+    antal_grader_f = (antal_grader_c * 1.8) + 32
+    print(f"Det blir {round(antal_grader_f, 1)} Fahrenheit.")
+
+else:
+    print("Följ instruktionerna och prova igen.")
