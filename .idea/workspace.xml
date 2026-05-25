@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3566bf97-b3a0-4a58-b126-d867b0b6e28a" name="Changes" comment="Miniräknare version 3.">
+    <list default="true" id="3566bf97-b3a0-4a58-b126-d867b0b6e28a" name="Changes" comment="Miniräknare version 4. Puh!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Miniräknare.py" beforeDir="false" afterPath="$PROJECT_DIR$/Miniräknare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,24 +41,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Balder.executor": "Run",
-    "Python.Miniräknare.executor": "Run",
-    "Python.Sportresultat.executor": "Run",
-    "Python.Temperaturomvandling.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Balder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Miniräknare.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sportresultat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Temperaturomvandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,7 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1779129782601</updated>
       <workItem from="1779129783631" duration="7936000" />
-      <workItem from="1779179841776" duration="8021000" />
+      <workItem from="1779179841776" duration="8489000" />
+      <workItem from="1779709061548" duration="3359000" />
     </task>
     <task id="LOCAL−00001" summary="Första uppgiften, main">
       <option name="closed" value="true" />
@@ -196,7 +197,14 @@
       <option name="presentableId" value="LOCAL−00017" />
       <updated>1779188960305</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL−00018" summary="Miniräknare version 4. Puh!">
+      <option name="closed" value="true" />
+      <created>1779191049683</created>
+      <option name="number" value="LOCAL−00018" />
+      <option name="presentableId" value="LOCAL−00018" />
+      <updated>1779191049683</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,13 +226,14 @@
     <MESSAGE value="Miniräknare version 1." />
     <MESSAGE value="Miniräknare version 2." />
     <MESSAGE value="Miniräknare version 3." />
-    <option name="LAST_COMMIT_MESSAGE" value="Miniräknare version 3." />
+    <MESSAGE value="Miniräknare version 4. Puh!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Miniräknare version 4. Puh!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/99_Veckouppgifter$Temperaturomvandling.coverage" NAME="Temperaturomvandling Coverage Results" MODIFIED="1779182119795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/99_Veckouppgifter$Sportresultat.coverage" NAME="Sportresultat Coverage Results" MODIFIED="1779137711100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/99_Veckouppgifter$Miniräknare.coverage" NAME="Miniräknare Coverage Results" MODIFIED="1779190910057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/99_Veckouppgifter$main.coverage" NAME="main Coverage Results" MODIFIED="1779135038818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/99_Veckouppgifter$Miniräknare.coverage" NAME="Miniräknare Coverage Results" MODIFIED="1779190992493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/99_Veckouppgifter$main.coverage" NAME="main Coverage Results" MODIFIED="1779709136472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/99_Veckouppgifter$Balder.coverage" NAME="Balder Coverage Results" MODIFIED="1779136018501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

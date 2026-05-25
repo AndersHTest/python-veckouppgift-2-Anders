@@ -14,7 +14,7 @@ discount = 0
 price = input("Välkommen, ange vad din produkt kostar: ")
 price = float(price)
 
-if level1 < price <= level2:
+if level1 <= price < level2:
     print("Grattis! Du har avancerat till nivå 1 och får 10% rabatt.")
     discount = discount + 10
 elif price >= level2:
@@ -32,6 +32,6 @@ print("Efter rabatter blir priset.... " + str(final_price))
 4. Man verkar få rabatt både för level 1 och level 2 kombinerat. Det är nog inte avsikten.
 5. Man kan göra om if-satserna så att dom hänger ihop istället.
 6. is_member-variabeln verkar inte användas så den tar jag bort. Ändra 'köp något dyrt' till något annat. Gör om if-satserna. -> done.
-Tre olika värden täcker alla möjliga utfall. Ett värde som är 100kr eller lägre ger 0% rabatt.
-Ett värde som är högre än 100kr och upp till och med 300kr ger 10% rabatt. Ett värde som är över 300 ger 25% rabatt.
+Tre olika värden täcker alla möjliga utfall. Ett värde som är under 100kr ger 0% rabatt.
+Ett värde som är lika med eller högre än 100kr och upp till och med 299kr ger 10% rabatt. Ett värde som är lika med eller över 300 kr ger 25% rabatt.
 """
